@@ -1,0 +1,14 @@
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net8.0\ArrayImplementation.exe
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net8.0\ArrayImplementation.deps.json
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net8.0\ArrayImplementation.runtimeconfig.json
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net8.0\ArrayImplementation.dll
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\bin\Debug\net8.0\ArrayImplementation.pdb
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net8.0\ArrayImplementation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net8.0\ArrayImplementation.AssemblyInfoInputs.cache
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net8.0\ArrayImplementation.AssemblyInfo.cs
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net8.0\ArrayImplementation.csproj.CoreCompileInputs.cache
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net8.0\ArrayImplementation.dll
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net8.0\refint\ArrayImplementation.dll
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net8.0\ArrayImplementation.pdb
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net8.0\ArrayImplementation.genruntimeconfig.cache
+D:\Code\C#\DataStructures-and-Algorithms\Array\ArrayImplementation\ArrayImplementation\obj\Debug\net8.0\ref\ArrayImplementation.dll
