@@ -1,1 +1,1 @@
-# This repository is designed for various data structures implementation.
+## This repository is designed for implementing various data structures.
