@@ -6,7 +6,7 @@ def _hash(key):
     return hashcode
 
 
-class MyHashSet:
+class MyHashTable:
     def __init__(self):
         self.data = {}
 
@@ -36,14 +36,14 @@ class MyHashSet:
 
 
 if __name__ == "__main__":
-    my_hashset = MyHashSet()
-    my_hashset.set('grapes', 10000)
-    my_hashset.set('orange', 520)
-    my_hashset.set('pineapple', 20)
-    my_hashset.set('banana', 300)
-    my_hashset.set('lime', 120)
-    print(my_hashset.get('pineapple'))
-    print(my_hashset.get('grapes'))
-    print(my_hashset.get('lime'))
-    print(my_hashset.keys())
+    my_hashtable = MyHashTable()
+    my_hashtable.set('grapes', 10000)
+    my_hashtable.set('orange', 520)
+    my_hashtable.set('pineapple', 20)
+    my_hashtable.set('banana', 300)
+    my_hashtable.set('lime', 120)
+    print(my_hashtable.get('pineapple'))
+    print(my_hashtable.get('grapes'))
+    print(my_hashtable.get('lime'))
+    print(my_hashtable.keys())
 
